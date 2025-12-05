@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "playground to start learning express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/AhmedAlaa21/BE-Starter"
+  },
+  "author": "Ahmed Alaa",
+  "license": "ISC"
+}
